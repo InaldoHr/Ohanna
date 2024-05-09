@@ -1,0 +1,90 @@
+.rodape {
+    color: white;
+    background-color: #0e0e0e;
+    text-align: center;
+}
+
+.logo {
+
+    margin-top: 90px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.title {
+    color: rgb(88, 63, 235);
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.logo {
+    list-style-type: none;
+    width: 150px;
+    margin-top: 30px;
+}
+
+
+
+.marg {
+    margin-top: 2%;
+}
+
+.horario {
+    list-style-type: none;
+    color: rgb(88, 63, 235);
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.img {
+    margin-top: 40px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: left;
+
+}
+.links{
+    margin-top: 80px;
+}
+
+.insta {
+    color: rgb(216, 7, 111);
+    font-size: 40px;
+    margin-top: 2px;
+}
+.zapp {
+    color: rgb(7, 216, 59);
+    font-size: 40px;
+    margin-top: 2px;
+}
+
+.facee {
+    color: rgb(0, 102, 255);
+    font-size: 36px;
+    margin-top: 4px;
+}
+
+.icons {
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+
+
+}
+
+.hrpe {
+    background-color: rgb(27, 11, 117);
+    ;
+}
+
+.semana {
+    list-style-type: none;
+}
+
+ul,
+li {
+    text-align: center;
+    list-style-type: none;
+}

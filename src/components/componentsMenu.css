@@ -1,0 +1,41 @@
+.barra {
+    background-color: #222222;
+
+}
+
+/* nao funciona (deixar os botões do menu separados) */
+
+.navbar-nav .nav-link {
+    margin-right: 10px !important;
+
+
+}
+
+.nav {
+    color: rgb(88, 63, 235);
+
+}
+
+.navbar-nav {
+    @media screen and (max-width: 760px) {
+        text-align: center;
+
+    }
+}
+
+.cont {
+    text-align: center;
+}
+
+
+hr {
+    position: relative;
+    border: none;
+    height: 12px;
+    background-color: rgb(88, 63, 235);
+    opacity: 1;
+}
+
+button {
+    background-color: #B30202;
+}

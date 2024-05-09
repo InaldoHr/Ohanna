@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c5e91cc.css",
+    "main.js": "/static/js/main.bec9c1c8.js",
+    "static/js/787.7ef09f4a.chunk.js": "/static/js/787.7ef09f4a.chunk.js",
+    "static/media/hamburguer.png": "/static/media/hamburguer.6be5fd276c550b93db43.png",
+    "static/media/carousel3.png": "/static/media/carousel3.6ae9dea0950d673f3a86.png",
+    "static/media/carousel2.png": "/static/media/carousel2.19daabe3366cb4441bb7.png",
+    "static/media/carousel1.png": "/static/media/carousel1.90a3e1a420065ccfb7d5.png",
+    "static/media/logo.png": "/static/media/logo.753dfa477bd039e30c7d.png",
+    "static/media/marmita.jpg": "/static/media/marmita.faa789dfddcf3de67c90.jpg",
+    "static/media/ohana.jpg": "/static/media/ohana.9d380ab481ae474bce77.jpg",
+    "static/media/mg2.jpg": "/static/media/mg2.6ed53a36b8498e75e1be.jpg",
+    "static/media/acai.jpg": "/static/media/acai.65e155fd1b8e6538ac94.jpg",
+    "static/media/macaco.webp": "/static/media/macaco.4ed92be91668012ac619.webp",
+    "index.html": "/index.html",
+    "main.7c5e91cc.css.map": "/static/css/main.7c5e91cc.css.map",
+    "main.bec9c1c8.js.map": "/static/js/main.bec9c1c8.js.map",
+    "787.7ef09f4a.chunk.js.map": "/static/js/787.7ef09f4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c5e91cc.css",
+    "static/js/main.bec9c1c8.js"
+  ]
+}

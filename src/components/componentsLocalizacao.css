@@ -1,0 +1,24 @@
+.localizacao {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding: 50px;
+}
+
+.imgg {
+  transition: transform 0.3s ease-in-out;
+  max-width: 300px;
+}
+
+.imgg:hover {
+  transform: scale(1.1);
+}
+
+.mapa {
+  height: 400px;
+  max-width: 20000px;
+  width: 100%;
+}
